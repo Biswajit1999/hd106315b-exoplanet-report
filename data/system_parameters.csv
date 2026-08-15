@@ -1,0 +1,2 @@
+pl_name,hostname,ra,dec,pl_orbper,pl_tranmid,pl_trandur,pl_rade,pl_bmasse,pl_eqt,pl_orbsmax,sy_dist,sy_tmag,st_teff,st_rad,st_mass,disc_year,discoverymethod,disc_refname,disc_pubdate,disc_facility
+HD 106315 b,HD 106315,183.4724742,-0.3934357,9.55237,2457586.5487,3.775,2.44,12.6,1153.0,0.0907,109.353,8.56338,6327.0,1.296,1.091,2017,Transit,<a refstr=CROSSFIELD_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017AJ....153..255C/abstract target=ref>Crossfield et al. 2017</a>,2017-06,K2
