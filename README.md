@@ -1,10 +1,20 @@
-# HD 106315 b — Real TESS Transit Report
+# HD 106315 b: Mixed TESS Evidence for a Warm Super-Earth
 
+<!-- TARGET-IDENTITY-START -->
+<p align="center">
+  <img src="assets/artist_concept.webp" alt="Artist's interpretation of HD 106315 b near its host star" width="900">
+</p>
+
+<p align="center"><em>AI-generated artist's interpretation informed by the measured system properties; not a direct image.</em></p>
+
+**Warm super-Earth · multi-sector consistency · TESS**
+
+A bright-star super-Earth whose available TESS sectors give mixed support, making this report a case study in resisting overconfident combination.
+<!-- TARGET-IDENTITY-END -->
 <p align="center">
   <img src="figures/hd106315b_tess_transit.png" alt="Phase-folded real TESS transit light curve of HD 106315 b" width="760">
 </p>
 
-One real public TESS SPOC light curve; one historical NASA Exoplanet Archive ephemeris; one timing-adjusted, limb-darkened transit fit.
 
 **[Open the full report](https://biswajit1999.github.io/hd106315b-exoplanet-report/)** — the live GitHub Pages version.
 
